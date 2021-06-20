@@ -1,0 +1,1 @@
+https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards?hl=pt_br&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%3Fhl%3Dpt_br%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-display-list-cards#0
